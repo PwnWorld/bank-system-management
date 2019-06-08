@@ -72,7 +72,7 @@ class BankSystem(object):
 
 
         #create admins and add them to admins_list
-        admin_1 = Admin("nima", "1441", True, ["12", "maqsodiye", "tabriz" , ""])
+        admin_1 = Admin("ahora", "1441", True, ["12", "maqsodiye", "tehran" , ""])
         self.adminList.append(admin_1)
 
 
