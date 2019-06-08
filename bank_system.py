@@ -108,7 +108,7 @@ class BankSystem(object):
         print()
         print()
         print ("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
-        print ("Welcome to the EN Melli Bank System")
+        print ("Welcome to the EN Simple Bank System")
         print ("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
         print ("1) Admin login")
         print ("2) Customer login")
