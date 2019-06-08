@@ -9,6 +9,7 @@
 * Auto Interest 
 * Auto Loan calculate
 * Admin & Customesrs login
+* Use pkl files for read and write info
 * ...
 ---
 
