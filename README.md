@@ -14,4 +14,4 @@
 
 ## Here is a ScreenShot from Program Working
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](http://s4.picofile.com/file/8362954250/Screenshot_from_2019_06_08_14_38_05.png "")
